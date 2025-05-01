@@ -1,6 +1,5 @@
 package org.project.creational.singleton;
-
-public class Run {
+public class RunSingleton {
 
     public static void main(String[] args){
         Singleton DB = Singleton.getInstance("my User1 from DB1");
@@ -8,6 +7,5 @@ public class Run {
 
         DB.getUserFromDB();
         DB2.getUserFromDB();
-
     }
 }
