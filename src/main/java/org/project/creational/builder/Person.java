@@ -8,7 +8,7 @@ public class Person {
     private double weight;
     private String bodyColor;
 
-    public Person(String name,int age,char sex,double height,double weight, String bodyColor){
+    protected Person(String name,int age,char sex,double height,double weight, String bodyColor){
         this.name = name;
         this.age = age;
         this.sex = sex;
