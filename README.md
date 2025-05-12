@@ -5,12 +5,10 @@ This project was created for educational purposes to demonstrate the usage of co
 ## 🚀 Patterns Included
 
 - **Singleton**
-- **Factory Method**
-- **Abstract Factory**
+- **Factory**
 - **Builder**
 - **Strategy**
 - **Observer**
-- **Decorator**
 - **Adapter**
 
 > Note: Each pattern is located in its own package and includes a basic usage example.
